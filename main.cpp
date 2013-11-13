@@ -2,8 +2,6 @@
 
 int main()
 {
-	int i;
-	std::cin >> i;
-	std::cout << "Your input is " << i << std::endl;
+	std::cout << "Hello, World!\n";
 	return 0;
 }
